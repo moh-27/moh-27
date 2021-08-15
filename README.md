@@ -21,6 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bulma" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -34,11 +35,16 @@
 
 ---
 
+### GitHub Status
+<a href="https://github.com/Davekibh">
+  <img align="left" alt="moh-27 Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-27&theme=tokyonight" />
+  </a>
 
-  <summary>:zap: GitHub Stats</summary>
-[![Moh-27's GitHub stats](https://github-readme-stats.vercel.app/api?username=moh-27)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Davekibh">
+ <img align="center" alt="moh-27's github lang stats" src="https://github-readme-stats.vercel.app/api?username=moh-27&show_icons=true&theme=tokyonight&line_height=27" />
+</a>
 
-
+<br/>
 
 [github]: https://github.com/moh-27
 [instagram]: https://www.instagram.com/moh.27/
