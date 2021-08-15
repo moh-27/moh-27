@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="moh-27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][github]
 [<img align="left" alt="moh-27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="moh-27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="moh-27 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -36,25 +35,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/moh-27/portfolio-sass/issues/2) in [moh-27/portfolio-sass](https://github.com/moh-27)
-2. ❗️ Closed issue [#2](https://github.com/moh-27/portfolio-sass/issues/2) in [moh-27/portfolio-sass](https://github.com/moh-27)
-3. ❌ Closed PR [#11](https://github.com/moh-27/free-developer-resources/pull/11) in [moh-27/free-developer-resources](https://github.com/moh-27/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/moh-27/free-developer-resources/issues/11) in [moh-27/free-developer-resources](https://github.com/moh-27/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/moh-27/free-developer-resources/pull/10) in [moh-27/free-developer-resources](https://github.com/moh-27/free-developer-resources)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moh-27)](https://github.com/moh-27/github-readme-stats)
 
-  <img align="left" alt="moh-27's GitHub Stats" src="https://github-readme-stats.moh-27.vercel.app/api?username=moh-27&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [github]: https://github.com/moh-27
