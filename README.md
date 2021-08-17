@@ -36,11 +36,11 @@
 ---
 
 ### GitHub Status
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/moh-27">
   <img align="left" alt="moh-27 Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh-27&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/moh-27">
  <img align="center" alt="moh-27's github lang stats" src="https://github-readme-stats.vercel.app/api?username=moh-27&show_icons=true&theme=tokyonight&line_height=27" />
 </a>
 
