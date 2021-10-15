@@ -10,6 +10,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="moh-27 | Mywebsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/monzo.svg" />][mywebsite]
 [<img align="left" alt="moh-27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="moh-27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="moh-27 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -49,3 +50,4 @@
 [github]: https://github.com/moh-27
 [instagram]: https://www.instagram.com/moh.27/
 [linkedin]: https://www.linkedin.com/in/mohammed-alsaggaf-
+[mywebsite]: https://mohammed-alsaggaf.com
