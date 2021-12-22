@@ -3,8 +3,7 @@
 ## Currently I'm a student!!
 
 - 🔭 I'm doing bachelor of software Engineering(Hons)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+-  I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music
 
