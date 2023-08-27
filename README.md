@@ -1,10 +1,11 @@
 ### Hi there, I'm Mohammed Alsaggaf
 
-## Currently I'm a student!!
+## Currently I'm a Working as Software Engineer!!
 
-- 🔭 I'm doing bachelor of software Engineering(Hons)
+- 🔭 Bachelor of software Engineering(Hons)
+- 🔭 Full Stack Developer
 -  I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music
 
 ### Connect with me:
